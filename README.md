@@ -43,7 +43,7 @@
 
 ---
 
-<!-- ═══════ 3D SKILL MATRIX — NON-CLICKABLE ═══════ -->
+<!-- ═══════ 3D SKILL MATRIX — TRUE 3D VISUALS ═══════ -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
   TECHNICAL ARSENAL
@@ -52,77 +52,116 @@
 
 <div align="center">
 
-<!-- ═══════ FLOATING 3D SKILL ICONS — NO LINKS ═══════ -->
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70"/>
+<!-- ═══════ 3D ROTATING TECH SPHERE ═══════ -->
+<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/gif.gif" width="500"/>
 
 <br><br>
 
-### AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0a0a0a" height="35"/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0a0a0a" height="35"/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0a0a0a" height="35"/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0a0a0a" height="35"/>
+<!-- ═══════ 3D SKILL GRID WITH DEPTH ═══════ -->
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="80"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="80"/>
+      <br><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="80"/>
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="80"/>
+      <br><sub><b>HTML5</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="80"/>
+      <br><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="80"/>
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="80"/>
+      <br><sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="80"/>
+      <br><sub><b>Spring</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="80"/>
+      <br><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="80"/>
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="80"/>
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="80"/>
+      <br><sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="80"/>
+      <br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="80"/>
+      <br><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="80"/>
+      <br><sub><b>Postman</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="40"/>
+      <br><sub><b>IntelliJ</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
-### Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0a0a" height="35"/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0a0a0a" height="35"/>
+<!-- ═══════ 3D ANIMATED SKILL WAVE ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d0-bf4d-9f5e1a0894b9.gif" width="700"/>
 
 <br><br>
 
-### Tools & Platforms
+<!-- ═══════ 3D PROFICIENCY PYRAMID ═══════ -->
 
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="70"/> &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0a0a0a" height="35"/>
-
-<br><br>
-
-<!-- ═══════ ANIMATED SKILL WAVE ═══════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d0-bf4d-9f5e1a0894b9.gif" width="600"/>
-
-<br><br>
-
-<!-- ═══════ 3D SKILL PROFICIENCY BARS ═══════ -->
-
-### Proficiency Levels
+### Skill Proficiency
 
 ```diff
-+ Python                          ████████████████████████████████████████  95%
-+ Java                            ██████████████████████████████████████░░  88%
-+ Machine Learning                ████████████████████████████████████░░░░  82%
-+ Spring Boot                     ████████████████████████████████░░░░░░░░  78%
-+ Computer Vision                 ████████████████████████████░░░░░░░░░░░░  72%
-+ JavaScript                      ████████████████████████░░░░░░░░░░░░░░░░  60%
++ Python              ████████████████████████████████████████████  95%
++ Java                █████████████████████████████████████████░░░  88%
++ Machine Learning    ██████████████████████████████████████░░░░░░  82%
++ Spring Boot         ████████████████████████████████████░░░░░░░░  78%
++ Computer Vision     ████████████████████████████████░░░░░░░░░░░░  72%
++ JavaScript          ████████████████████████████░░░░░░░░░░░░░░░░  60%
 ```
 
 <br>
 
-<!-- ═══════ 3D ROTATING CUBE ═══════ -->
-<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/gif.gif" width="400"/>
+<!-- ═══════ 3D FLOATING TECH STACK ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988978-d733-44f5-a5a9-5d7f5a5c5c08.gif" width="600"/>
 
 <br><br>
 
-<!-- ═══════ FLOATING TECH STACK GIF ═══════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988978-d733-44f5-a5a9-5d7f5a5c5c08.gif" width="500"/>
+<!-- ═══════ 3D LANGUAGE DONUT ═══════ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas-105&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&border_radius=15&langs_count=8" width="400"/>
 
 </div>
 
