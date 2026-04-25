@@ -1,109 +1,292 @@
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Hello,%20I'm%20Srinivas%20%F0%9F%91%8B&fontSize=60&fontAlignY=38&desc=AI-Powered%20Backend%20Engineer%20%7C%203rd%20Year%20B.Tech%20Student&descAlignY=55&descSize=20)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--    🚀  MARATI SRINIVASA RAO  —  ULTIMATE 3D GITHUB PROFILE   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<!-- ═══════ 3D PARTICLE WAVE BANNER ═══════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=SRINIVASA%20RAO&fontSize=70&fontColor=fff&fontAlignY=45&desc=AI%20Engineer%20%7C%203D%20Stack%20Architect%20%7C%20Full-Stack%20Builder&descAlignY=65&descSize=18&animation=twinkling&stroke=00d4ff&strokeWidth=2"/>
+
+<br><br>
+
+<!-- ═══════ ANIMATED TYPING WITH 3D EFFECT ═══════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=🔥+3D+SKILL+STACK+ACTIVATED;🧠+Building+AI+That+Thinks;☕+Spring+Boot+Microservices+Architect;🐍+Python+ML%2FDL+Pipeline+Engineer;🎮+Reinforcement+Learning+Systems;🚀+Open+for+AI%2FML+%26+SWE+Internships" alt="Typing SVG"/>
+</a>
+
+<br><br>
+
+<!-- ═══════ FLOATING BADGES ═══════ -->
+<a href="mailto:m.srinivasarao051@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://linkedin.com/in/srinivasa-rao-73732b2bb">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://github.com/srinivas-105">
+  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=srinivas-105&label=👁️+Profile+Views&color=00d4ff&style=for-the-badge&labelColor=1a1a2e"/>
+
+<br><br>
+
+<!-- ═══════ STATUS BADGES ═══════ -->
+<img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-AI%2FML%20%7C%20SWE%20Internships-22c55e?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📍_Kurnool%2C%20AP%20🇮🇳-ff6b6b?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🎓_CGPA_8.39%2F10-9f7aea?style=for-the-badge&labelColor=1a1a2e"/>
+
+<br><br>
+
+<!-- ═══════ ANIMATED CODING GIF ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d21-4a8b-9c1c-039391e49d79.gif" width="500"/>
+
+</div>
 
 ---
 
-### Now Playing: My Coding Journey 🎧
+<!-- ═══════ 3D SKILL ICONS MATRIX ═══════ -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 
+  3D TECH ARSENAL 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=22D3EE&width=700&lines=Java+%2B+Spring+Boot+Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Python+Automation+%7C+OpenCV+%7C+Deep+Learning;Building+Real-World+Projects+That+Matter;Clean+Code+Advocate+%7C+Problem+Solver)](https://git.io/typing-svg)
+<div align="center">
 
----
+<!-- ANIMATED SKILLICONS 3D GRID -->
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,spring,mysql,git,github,linux,vscode,postman,opencv&theme=dark&perline=5" width="80%"/>
 
-## 💫 My Developer Identity
+<br><br>
 
-| 🔭 Currently | 🎓 Studying | 🌱 Learning | 💡 Interested In |
-|:---:|:---:|:---:|:---:|
-| AI-Driven Health Monitoring Systems | B.Tech CSE (AI) — 3rd Year | Spring Boot Microservices | LLMs & Generative AI |
+<!-- ═══════ ANIMATED SKILL BARS ═══════ -->
 
----
+### ⚡ Core Power Levels
 
-## 💻 Tech Universe
+```diff
+@@ 🐍 PYTHON @@
++ ████████████████████████████████████████  95% 🟢 MASTER
 
-### Languages I Speak
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+@@ ☕ JAVA @@
++ ████████████████████████████████████░░░░  88% 🟢 EXPERT
 
-### Frameworks & Libraries
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)](https://spring.io/projects/spring-security)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+@@ 🧠 MACHINE LEARNING @@
++ ████████████████████████████████░░░░░░░░  82% 🟢 ADVANCED
 
-### Databases & Tools
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+@@ 🌱 SPRING BOOT @@
++ ██████████████████████████████░░░░░░░░░░  78% 🟡 PROFICIENT
 
----
+@@ 👁️ COMPUTER VISION @@
++ ████████████████████████████░░░░░░░░░░░░  72% 🟡 PROFICIENT
 
-## 🚀 Featured Projects
+@@ ⚡ JAVASCRIPT @@
++ ████████████████████████░░░░░░░░░░░░░░░░  60% 🟡 INTERMEDIATE
+```
 
-| Repository | Description | Tech Stack | Status |
-|---|---|---|---|
-| **[🏦 BankingSpring](https://github.com/srinivas-105/BankingSpring)** | A full-fledged Banking Management System with secure transactions, user management, and account operations. Built with production-ready Spring Boot architecture. | `Java` `Spring Boot` `MySQL` | ✅ Completed |
-| **[❤️ HeartDiseaseDetection](https://github.com/srinivas-105/HeartDiseaseDetection)** | ML-powered system predicting heart disease risk using patient data. Implements data preprocessing, model training, and evaluation metrics. | `Python` `Pandas` `Scikit-learn` | 🧪 Experimenting |
-| **[☁️ CloudHealthMonitoring2](https://github.com/srinivas-105/CloudHealthMonitoring2)** | Cloud-based health monitoring dashboard with real-time data ingestion and alerting system for patient vitals. | `Python` `Cloud` `Monitoring` | 🚀 Active |
-| **[💰 prize-spin-wheel](https://github.com/srinivas-105/prize-spin-wheel)** | Interactive prize spin wheel for giveaways, built with smooth animations and customizable reward logic. | `JavaScript` `HTML` `CSS` | ✅ Completed |
-| **[😴 Sleep-alaram](https://github.com/srinivas-105/Sleep-alaram)** | Smart alarm system that intelligently wakes you up at the optimal sleep cycle phase using time calculations. | `Python` | ✅ Completed |
-| **[🌐 Potfolio](https://github.com/srinivas-105/Potfolio)** | My personal portfolio website showcasing projects, skills, and contact information. | `HTML` `CSS` `JavaScript` | 🌟 Live |
+<br>
+
+<!-- ═══════ 3D ROTATING SKILL CUBE ═══════ -->
+<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/gif.gif" width="400"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ═══════ PROFILE 3D STATS ═══════ -->
+<h2 align="center">📊 3D GITHUB METRICS</h2>
 
-### 🏆 Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srinivas-105&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
-### 🔥 Stats Overview
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=srinivas-105&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b&text_color=c9d1d9&border_radius=15&include_all_commits=true&count_private=true&rank_icon=github" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas-105&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=15&langs_count=8" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas-105&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&border_radius=15" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-| Overall Stats | Most Used Languages | Streak |
-|:---:|:---:|:---:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=srinivas-105&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=srinivas-105&layout=compact&theme=radical&langs_count=8) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=srinivas-105&theme=radical&fire=FF7315&ring=00D4AA&currStreakNum=FF7315) |
+<br>
 
-### 📈 Contribution Activity
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srinivas-105&theme=redical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- ═══════ 3D CONTRIBUTION CALENDAR ═══════ -->
+<img src="https://github-profile-3d-contrib.vercel.app/?username=srinivas-105&theme=blue-green&no-bg=true&no-frame=true" width="100%"/>
 
-### 🐍 Contribution Snake
+<br><br>
 
-![Snake animation](https://github.com/srinivas-105/srinivas-105/blob/output/github-contribution-grid-snake.svg)
+<!-- ═══════ ACTIVITY GRAPH ═══════ -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-105&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=ff6b6b&point=00d4ff&area=true&area_color=00d4ff20" width="100%"/>
 
----
-
-## 📚 What Drives Me
-
-> *"I build what I believe in — clean, scalable, and impactful. Every line of code is a step toward something bigger."*
-
-- 🔨 **Code Philosophy:** Scalable architecture first, clever tricks second.
-- 🧠 **AI Perspective:** AI doesn't replace developers; it supercharges them. I build with that in mind.
-- 🌱 **Growth Mindset:** Currently deepening my expertise in microservices, cloud deployment, and MLOps.
-- 🎯 **2025 Goal:** Launch at least 2 production-grade AI-integrated applications and contribute meaningfully to open source.
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-105/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinivas-105)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
+</div>
 
 ---
 
-## 💻 Tools & IDEs I Use
+<!-- ═══════ TROPHIES ═══════ -->
+<h2 align="center">🏆 ACHIEVEMENT UNLOCKED</h2>
 
-![Dev Tools](https://skillicons.dev/icons?i=java,spring,python,js,html,css,react,nodejs,mysql,oracle,git,github,linux,vscode,postman&theme=dark&perline=8)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srinivas-105&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
+</div>
 
 ---
 
-> **Want to see what I'm building right now?** Check my pinned repositories below or drop me a message — I'm always down to collaborate on cool stuff.
+<!-- ═══════ FEATURED PROJECTS ═══════ -->
+<h2 align="center">🚀 FEATURED MISSIONS</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/srinivas-105/HeartDiseaseDetection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivas-105&repo=HeartDiseaseDetection&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b&text_color=c9d1d9&border_radius=15"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/srinivas-105/CloudHealthMonitoring">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivas-105&repo=CloudHealthMonitoring&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b&text_color=c9d1d9&border_radius=15"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/srinivas-105/BankingSpring">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivas-105&repo=BankingSpring&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b&text_color=c9d1d9&border_radius=15"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/srinivas-105/Sleep-alaram">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivas-105&repo=Sleep-alaram&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=ff6b6b&text_color=c9d1d9&border_radius=15"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer)
+<!-- ═══════ ABOUT ME CODE BLOCK ═══════ -->
+<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> ABOUT ME</h2>
+
+```python
+#!/usr/bin/env python3
+# ═══════════════════════════════════════════════
+#   srinivas-105  ·  github.com/srinivas-105
+# ═══════════════════════════════════════════════
+
+class Srinivas:
+    def __init__(self):
+        self.name       = "Marati Srinivasa Rao"
+        self.role       = "AI/ML Engineer & Backend Architect"
+        self.location   = "Kurnool, Andhra Pradesh 🇮🇳"
+        self.education  = "B.Tech CSE-AI @ GPCET | CGPA: 8.39/10"
+        self.email      = "m.srinivasarao051@gmail.com"
+        self.phone      = "+91 7997110446"
+        
+        self.languages  = ["Python", "Java", "JavaScript", "SQL", "HTML/CSS"]
+        self.ml_stack   = ["Scikit-learn", "Pandas", "NumPy", "OpenCV", "RL"]
+        self.backend    = ["Spring Boot", "REST APIs", "JDBC", "MySQL"]
+        self.tools      = ["Git", "GitHub", "VS Code", "IntelliJ", "Linux"]
+        
+        self.motto      = "Engineer systems that think, heal, and protect 💡"
+    
+    def say_hi(self):
+        print("Hey! I build AI systems with real-world impact 🚀")
+
+me = Srinivas()
+me.say_hi()
+```
+
+---
+
+<!-- ═══════ LEARNING ROADMAP ═══════ -->
+<h2 align="center">🎯 SKILL EVOLUTION TRACKER</h2>
+
+<div align="center">
+
+| Skill | Level | Progress |
+|:---|:---:|:---|
+| 🔵 **Reinforcement Learning** | Advanced | `████████████████████░░░░` **82%** |
+| 🟣 **Computer Vision (OpenCV)** | Advanced | `██████████████████░░░░░░` **74%** |
+| 🟢 **Spring Boot Microservices** | Proficient | `████████████████░░░░░░░░` **66%** |
+| 🟡 **Cloud & System Design** | Learning | `████████████░░░░░░░░░░░░` **50%** |
+| 🔴 **Docker & DevOps** | Beginner | `████████░░░░░░░░░░░░░░░░` **34%** |
+
+</div>
+
+---
+
+<!-- ═══════ SNAKE ANIMATION ═══════ -->
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srinivas-105/srinivas-105/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srinivas-105/srinivas-105/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/srinivas-105/srinivas-105/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+<!-- ═══════ QUOTES ═══════ -->
+<h2 align="center">💬 WISDOM</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="100%"/>
+</div>
+
+---
+
+<!-- ═══════ CONNECT ═══════ -->
+<h2 align="center">🌐 CONNECT WITH ME</h2>
+
+<div align="center">
+
+<a href="mailto:m.srinivasarao051@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/srinivasa-rao-73732b2bb">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/srinivas-105">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+| 📧 Email | 💼 LinkedIn | 📞 Phone |
+|:---|:---|:---|
+| m.srinivasarao051@gmail.com | [srinivasa-rao-73732b2bb](https://linkedin.com/in/srinivasa-rao-73732b2bb) | +91 7997110446 |
+
+</div>
+
+---
+
+<!-- ═══════ FOOTER ═══════ -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer&animation=twinkling"/>
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/⭐_Star_My_Repos-If_You_Like_What_I_Build-ff6b6b?style=for-the-badge&labelColor=1a1a2e"/>
+  
+  <br><br>
+  
+  <sub>
+    <b>Built with 💙 by Srinivasa Rao</b><br>
+    <i>From Kurnool, India — Engineering the Future with AI</i><br>
+    <img src="https://img.shields.io/badge/github.com/srinivas--105-181717?style=flat-square&logo=github&logoColor=white"/>
+  </sub>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SETUP: Enable snake by creating .github/workflows/snake.yml   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
