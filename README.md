@@ -43,7 +43,7 @@
 
 ---
 
-<!-- ═══════ 3D SKILL MATRIX ═══════ -->
+<!-- ═══════ 3D SKILL MATRIX — NON-CLICKABLE ═══════ -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
   TECHNICAL ARSENAL
@@ -52,40 +52,52 @@
 
 <div align="center">
 
-<!-- ═══════ 3D SKILL ICONS ═══════ -->
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,spring,mysql,git,github,linux,vscode,postman,opencv&theme=dark&perline=5" width="85%"/>
+<!-- ═══════ FLOATING 3D SKILL ICONS — NO LINKS ═══════ -->
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70"/>
 
 <br><br>
 
-<!-- ═══════ CATEGORIZED SKILL BADGES ═══════ -->
-
-### Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0a0a"/>
-
 ### AI / Machine Learning
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0a0a0a"/>
 
-### Backend & Database
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0a0a0a"/>
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0a0a0a" height="35"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0a0a0a" height="35"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0a0a0a" height="35"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0a0a0a" height="35"/>
+
+<br><br>
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0a0a0a" height="35"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0a0a0a" height="35"/>
+
+<br><br>
 
 ### Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a"/>
+
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="70"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0a0a0a" height="35"/>
+
+<br><br>
+
+<!-- ═══════ ANIMATED SKILL WAVE ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d0-bf4d-9f5e1a0894b9.gif" width="600"/>
 
 <br><br>
 
@@ -106,6 +118,11 @@
 
 <!-- ═══════ 3D ROTATING CUBE ═══════ -->
 <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/gif.gif" width="400"/>
+
+<br><br>
+
+<!-- ═══════ FLOATING TECH STACK GIF ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988978-d733-44f5-a5a9-5d7f5a5c5c08.gif" width="500"/>
 
 </div>
 
