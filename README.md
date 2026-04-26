@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HERO BANNER — uses valid "venom" type with deep 3D gradient -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:04020f,30:0d0221,60:1a0533,100:2d1b69&height=260&section=header&text=MARATI%20SRINIVASA%20RAO&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=64&descSize=16&descColor=a78bfa&stroke=7c3aed&strokeWidth=2" width="100%"/>
+<!-- HERO BANNER — type=waving is valid and supported -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04020f,30:0d0221,60:1a0533,100:2d1b69&height=260&section=header&text=MARATI%20SRINIVASA%20RAO&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=64&descSize=16&descColor=a78bfa" width="100%"/>
 
 <br/>
 
@@ -16,19 +16,19 @@
 
 <br/><br/>
 
-<!-- ANIMATED TYPEWRITER -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=🧠+Building+Intelligent+Systems+That+Think;⚙️+Spring+Boot+Microservices+Architect;👁️+Machine+Learning+%26+Computer+Vision+Engineer;🚀+Open+for+AI%2FML+%26+SWE+Internships+—+2025;💡+Python+%7C+Java+%7C+OpenCV+%7C+Scikit-Learn" alt="Typing SVG"/>
+<!-- ANIMATED TYPEWRITER — Fira+Code is reliably supported -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+That+Think;Spring+Boot+Microservices+Architect;Machine+Learning+%26+Computer+Vision+Engineer;Open+for+AI%2FML+%26+SWE+Internships+2025;Python+%7C+Java+%7C+OpenCV+%7C+Scikit-Learn" alt="Typing SVG"/>
 
 <br/><br/>
 
 <!-- STATUS PILLS -->
-<img src="https://img.shields.io/badge/🟢_Status-Actively_Seeking_Opportunities-22c55e?style=flat-square&labelColor=0d0221"/>
+<img src="https://img.shields.io/badge/Status-Actively_Seeking_Opportunities-22c55e?style=flat-square&labelColor=0d0221"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📍_Location-Kurnool,_AP,_India-7c3aed?style=flat-square&labelColor=0d0221"/>
+<img src="https://img.shields.io/badge/Location-Kurnool,_AP,_India-7c3aed?style=flat-square&labelColor=0d0221"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🎓_CGPA-8.39_/_10-a78bfa?style=flat-square&labelColor=0d0221"/>
+<img src="https://img.shields.io/badge/CGPA-8.39_/_10-a78bfa?style=flat-square&labelColor=0d0221"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🎯_Target-AI%2FML_%26_SWE_Internship-e879f9?style=flat-square&labelColor=0d0221"/>
+<img src="https://img.shields.io/badge/Target-AI%2FML_%26_SWE_Internship-e879f9?style=flat-square&labelColor=0d0221"/>
 
 </div>
 
@@ -193,16 +193,16 @@ print(f"Hello from {me.location}! 👋")
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srinivas-105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=04020f&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=14&include_all_commits=true&count_private=true&rank_icon=github&custom_title=◈+Srinivasa+Rao+—+Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srinivas-105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=04020f&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=14&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Srinivasa+Rao+Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas-105&theme=tokyonight&hide_border=true&background=04020f&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=555f6e&border_radius=14"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas-105&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=04020f&title_color=a78bfa&text_color=c9d1d9&border_radius=14&langs_count=8&custom_title=◈+Languages"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas-105&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=04020f&title_color=a78bfa&text_color=c9d1d9&border_radius=14&langs_count=8&custom_title=Languages"/>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-105&theme=tokyo-night&hide_border=true&bg_color=04020f&color=a78bfa&line=7c3aed&point=e879f9&area=true&area_color=7c3aed20&custom_title=◈+Contribution+Activity+—+Srinivasa+Rao&radius=14"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-105&theme=tokyo-night&hide_border=true&bg_color=04020f&color=a78bfa&line=7c3aed&point=e879f9&area=true&area_color=7c3aed20&custom_title=Contribution+Activity&radius=14"/>
 
 <br/><br/>
 
