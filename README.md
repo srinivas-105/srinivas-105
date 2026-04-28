@@ -1,297 +1,115 @@
 <div align="center">
 
-<!-- HERO BANNER — type=waving is valid and supported -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04020f,30:0d0221,60:1a0533,100:2d1b69&height=260&section=header&text=MARATI%20SRINIVASA%20RAO&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=64&descSize=16&descColor=a78bfa" width="100%"/>
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<a href="mailto:m.srinivasarao051@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533"/></a>
-&nbsp;
-<a href="https://linkedin.com/in/srinivasa-rao-73732b2bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533"/></a>
-&nbsp;
-<a href="https://github.com/srinivas-105"><img src="https://img.shields.io/badge/GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533"/></a>
-&nbsp;
-<a href="https://wa.me/917997110446"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a0533"/></a>
-
-<br/><br/>
-
-<!-- ANIMATED TYPEWRITER — Fira+Code is reliably supported -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+That+Think;Spring+Boot+Microservices+Architect;Machine+Learning+%26+Computer+Vision+Engineer;Open+for+AI%2FML+%26+SWE+Internships+2025;Python+%7C+Java+%7C+OpenCV+%7C+Scikit-Learn" alt="Typing SVG"/>
-
-<br/><br/>
-
-<!-- STATUS PILLS -->
-<img src="https://img.shields.io/badge/Status-Actively_Seeking_Opportunities-22c55e?style=flat-square&labelColor=0d0221"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Kurnool,_AP,_India-7c3aed?style=flat-square&labelColor=0d0221"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CGPA-8.39_/_10-a78bfa?style=flat-square&labelColor=0d0221"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Target-AI%2FML_%26_SWE_Internship-e879f9?style=flat-square&labelColor=0d0221"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:161b22&height=120&section=header" width="100%"/>
 
 </div>
 
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│    ███╗   ███╗ █████╗ ██████╗  █████╗ ████████╗██╗    ███████╗██████╗         │
+│    ████╗ ████║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║    ██╔════╝██╔══██╗        │
+│    ██╔████╔██║███████║██████╔╝███████║   ██║   ██║    ███████╗██████╔╝        │
+│    ██║╚██╔╝██║██╔══██║██╔══██╗██╔══██║   ██║   ██║    ╚════██║██╔══██╗        │
+│    ██║ ╚═╝ ██║██║  ██║██║  ██║██║  ██║   ██║   ██║    ███████║██║  ██║        │
+│    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝    ╚══════╝╚═╝  ╚═╝        │
+│                                                                                 │
+│              S R I N I V A S A   R A O  ·  AI/ML & Software Engineer           │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+Prompt+Engineering+%7C+LLM+Workflows;Machine+Learning+%7C+Computer+Vision+%7C+RL+Systems;Spring+Boot+Backend+%7C+REST+API+Architect;B.Tech+CSE+%40+GPCET+%7C+CGPA+8.39+%2F+10;Open+to+AI%2FML+%26+SWE+Internships+%E2%86%92+2025" alt="Typing SVG"/>
+
 <br/>
+
+[![Gmail](https://img.shields.io/badge/m.srinivasarao051%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.srinivasarao051@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srinivasa-rao-73732b2bb)
+[![GitHub](https://img.shields.io/badge/srinivas--105-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/srinivas-105)
+[![WhatsApp](https://img.shields.io/badge/%2B91%207997110446-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/917997110446)
+
+![Profile Views](https://komarev.com/ghpvc/?username=srinivas-105&style=flat-square&color=58A6FF&label=Profile+Views)
+![Status](https://img.shields.io/badge/Status-Open_to_Internships-2ea44f?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Kurnool,_AP,_India-0d1117?style=flat-square)
+
+</div>
 
 ---
 
-## 🧬 About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
+## `$ whoami`
 
 ```python
-╔══════════════════════════════════════════╗
-║        developer_profile_v2.py           ║
-╠══════════════════════════════════════════╣
+class SrinivasaRao:
+    """
+    Computer Science undergraduate building systems at the intersection
+    of Generative AI, Machine Learning, and robust backend engineering.
+    """
 
-class MaratiSrinivasaRao:
-
-    name     = "Marati Srinivasa Rao"
-    alias    = "srinivas-105"
-    role     = "AI/ML Engineer & Backend Dev"
-    college  = "B.Tech CSE-AI @ GPCET"
-    cgpa     = 8.39
-    location = "Kurnool, Andhra Pradesh"
-    phone    = "+91 7997110446"
-
-    tech_stack = {
-       "languages" : ["Python","Java","JS","SQL"],
-       "ml"        : ["Scikit-learn","OpenCV","NumPy"],
-       "backend"   : ["Spring Boot","REST APIs","MySQL"],
-       "tools"     : ["Git","Linux","Postman","IntelliJ"]
-    }
-
-    currently_learning = [
-       "Reinforcement Learning",
-       "Cloud & System Design",
-       "Docker & DevOps",
-    ]
-
-    motto = (
-       "Engineer systems that"
-       " think, heal & protect."
-    )
-
-me = MaratiSrinivasaRao()
-print(f"Hello from {me.location}! 👋")
-
-╚══════════════════════════════════════════╝
+    education   = "B.Tech CSE @ G. Pullaiah College of Engineering & Technology"
+    cgpa        = 8.39
+    location    = "Kurnool, Andhra Pradesh, India"
+    focus       = ["Generative AI", "Prompt Engineering", "ML Systems", "Backend Dev"]
+    tools       = ["Python", "Java", "Spring Boot", "Scikit-learn", "OpenCV", "SQL"]
+    gen_ai      = ["ChatGPT", "Claude", "LLM Pipelines", "Prompt Optimization"]
+    seeking     = "AI/ML or Generative AI Internship — 2025"
+    motto       = "Build systems that think. Write code that lasts."
 ```
 
-</td>
-<td width="45%" valign="top">
-
-<br/>
-
-```
-┌──────────────────────────────────────┐
-│          ◈  QUICK  STATS  ◈          │
-├──────────────────┬───────────────────┤
-│  🧑  Name        │  Srinivasa Rao    │
-│  🎓  Degree      │  B.Tech CSE-AI    │
-│  📊  CGPA        │  8.39 / 10        │
-│  📍  Base        │  Kurnool, AP      │
-│  💼  Seeking     │  Internship       │
-│  🤝  Open To     │  Collaborate      │
-│  🧠  Focus       │  AI / ML          │
-│  ⚙️   Backend    │  Spring Boot      │
-│  👁️   Vision     │  OpenCV           │
-│  🌐  GitHub      │  srinivas-105     │
-│  📞  Phone       │  +91 7997110446   │
-└──────────────────┴───────────────────┘
-```
-
-<br/>
-
-> 🔮 *"Engineer systems that*
-> *think, heal & protect."*
->
-> — **Marati Srinivasa Rao**
-
-</td>
-</tr>
-</table>
+> I'm a CS undergraduate passionate about **Generative AI** and applied ML — building everything from RL-based cloud monitoring agents and computer vision safety systems to full-stack banking backends. I actively work with LLMs, design prompt workflows, and follow AI startup trends closely. Currently seeking an internship to contribute to real-world intelligent systems.
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 🔤 Languages
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a0533"/>
-
-<br/><br/>
-
-### 🤖 AI / ML & Data Science
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0533"/>
-
-<br/><br/>
-
-### ⚙️ Backend & Databases
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=1a0533"/>
-
-<br/><br/>
-
-### 🧰 DevTools & Platforms
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=1a0533"/>
-
-</div>
-
----
-
-## 📊 Skill Proficiency
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                  ◈  SKILL  PROFICIENCY  MATRIX  ◈                       ║
-╠═══════════════════╦═══════════╦════════════════════════════════════════╣
-║  SKILL            ║  LEVEL    ║  MASTERY                               ║
-╠═══════════════════╬═══════════╬════════════════════════════════════════╣
-║  🐍 Python        ║  Expert   ║  ██████████████████████▓░  95%        ║
-║  ☕ Java           ║  Advanced ║  ████████████████████░░░░  88%        ║
-║  🧠 Mach. Learn.  ║  Advanced ║  █████████████████░░░░░░░  82%        ║
-║  🌱 Spring Boot   ║  Profc.   ║  ████████████████░░░░░░░░  78%        ║
-║  👁️ Comp. Vision  ║  Profc.   ║  ██████████████░░░░░░░░░░  72%        ║
-║  🗄️ SQL / DB      ║  Profc.   ║  █████████████░░░░░░░░░░░  65%        ║
-║  🟨 JavaScript    ║  Inter.   ║  ████████████░░░░░░░░░░░░  60%        ║
-╚═══════════════════╩═══════════╩════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srinivas-105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=04020f&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&border_radius=14&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Srinivasa+Rao+Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas-105&theme=tokyonight&hide_border=true&background=04020f&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=555f6e&border_radius=14"/>
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas-105&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=04020f&title_color=a78bfa&text_color=c9d1d9&border_radius=14&langs_count=8&custom_title=Languages"/>
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=srinivas-105&theme=tokyo-night&hide_border=true&bg_color=04020f&color=a78bfa&line=7c3aed&point=e879f9&area=true&area_color=7c3aed20&custom_title=Contribution+Activity&radius=14"/>
-
-<br/><br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=srinivas-105&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## `$ ls -la skills/`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🫀 Heart Disease Detection
-
-<a href="https://github.com/srinivas-105/HeartDiseaseDetection"><img src="https://img.shields.io/badge/View_Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533"/></a>
-
-> ML-powered cardiac risk assessment system — high-accuracy classification for early heart disease detection and preventive healthcare.
-
+**Generative AI & LLMs**
 ```
-Tech   ─ Python · Scikit-learn · Pandas · NumPy
-Domain ─ Healthcare AI · Predictive Modeling
-Type   ─ Classification · Risk Assessment
+ChatGPT · Claude · Prompt Engineering
+LLM Content Workflows · AI Automation
+Research Synthesis · Content Generation
 ```
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/Healthcare_AI-22c55e?style=flat-square&labelColor=1a0533"/>
+**Machine Learning**
+```
+Classification · Regression
+Reinforcement Learning · Feature Engineering
+Model Evaluation · Scikit-learn · Pandas · NumPy
+```
+
+**Computer Vision**
+```
+OpenCV · Eye Aspect Ratio (EAR)
+Facial Landmark Detection · Real-time Processing
+```
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### ☁️ Cloud Health Monitoring
-
-<a href="https://github.com/srinivas-105/CloudHealthMonitoring"><img src="https://img.shields.io/badge/View_Repository-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533"/></a>
-
-> Real-time cloud infrastructure monitoring dashboard with automated alerting and intelligent anomaly detection for DevOps teams.
-
+**Backend Engineering**
 ```
-Tech   ─ Java · Spring Boot · REST APIs · MySQL
-Domain ─ Cloud Infrastructure · DevOps
-Type   ─ Real-Time Dashboard · Monitoring
+Java · Spring Boot · REST APIs
+MVC Architecture · JDBC · MySQL
+OOP · SDLC · Layered Design
 ```
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/Cloud_Infra-0ea5e9?style=flat-square&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&labelColor=1a0533"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 Banking Spring System
-
-<a href="https://github.com/srinivas-105/BankingSpring"><img src="https://img.shields.io/badge/View_Repository-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533"/></a>
-
-> Full-featured enterprise banking backend with Spring Boot microservices, JDBC integration, and MySQL for secure financial transactions.
-
+**Languages**
 ```
-Tech   ─ Spring Boot · MySQL · JDBC · REST API
-Domain ─ FinTech · Enterprise Backend
-Type   ─ Microservices · Transactional System
+Python ████████████████████ Expert
+Java   ████████████████░░░░ Advanced
+SQL    █████████████░░░░░░░ Proficient
+JS     ████████████░░░░░░░░ Intermediate
 ```
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/Microservices-7c3aed?style=flat-square&labelColor=1a0533"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 😴 Sleep Alarm — CV System
-
-<a href="https://github.com/srinivas-105/Sleep-alaram"><img src="https://img.shields.io/badge/View_Repository-e879f9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533"/></a>
-
-> Real-time driver drowsiness detection using OpenCV eye-tracking — triggers a safety alarm to prevent fatigue-related road accidents.
-
+**Tools & Platforms**
 ```
-Tech   ─ Python · OpenCV · Computer Vision
-Domain ─ Driver Safety · Edge AI
-Type   ─ Real-Time Detection · Safety System
+Git · GitHub · IntelliJ IDEA
+Jupyter Notebook · VS Code · Postman
 ```
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/Driver_Safety-22c55e?style=flat-square&labelColor=1a0533"/>
 
 </td>
 </tr>
@@ -299,68 +117,115 @@ Type   ─ Real-Time Detection · Safety System
 
 ---
 
-## 🗺️ Learning Roadmap — 2025
+## `$ cat projects/`
+
+### 🤖 [`CloudHealRL`](https://github.com/srinivas-105/CloudHealthMonitoring) — AI Cloud Health Monitoring
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=flat-square)
+![Simulation](https://img.shields.io/badge/Simulation-0ea5e9?style=flat-square)
+
+> An RL-based autonomous decision-making system for cloud failure recovery. The agent learns optimal recovery strategies across simulated failure scenarios, with an interactive interface for testing and validating recovery policies in real time.
+
+- Built modular RL architecture separating **environment, agent, and policy** layers for clean scalability
+- Designed interactive simulation interface to input cloud issues and observe agent behaviour
+- Demonstrates applied **Reinforcement Learning** for autonomous infrastructure management
+
+---
+
+### 🫀 [`HeartDiseaseDetection`](https://github.com/srinivas-105/HeartDiseaseDetection) — ML Cardiac Risk Classifier
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+> End-to-end ML pipeline for predicting heart disease risk from structured patient health data. Covers full model lifecycle from raw data to deployment-ready classifier with strong precision metrics.
+
+- Full pipeline: **data preprocessing → feature selection → model training → evaluation**
+- Achieved high accuracy using classification algorithms from Scikit-learn
+- Applied feature engineering and cross-validation for robust generalization
+
+---
+
+### 😴 [`Sleep-Alarm`](https://github.com/srinivas-105/Sleep-alaram) — Real-Time Driver Drowsiness Detection
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-7c3aed?style=flat-square)
+
+> A real-time Computer Vision safety system that detects driver drowsiness using Eye Aspect Ratio (EAR) and facial landmark tracking, triggering an alarm before fatigue causes accidents.
+
+- Implemented **Eye Aspect Ratio (EAR)** algorithm for reliable eye-state detection
+- Configurable eye-closure threshold for different driving conditions
+- Edge-deployable, low-latency inference — no internet required
+
+---
+
+### 🏦 [`BankingSpring`](https://github.com/srinivas-105/BankingSpring) — Enterprise Banking Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+> Full-featured banking backend built with production-grade Spring Boot architecture. Supports account creation, secure transactions, and balance management via clean RESTful APIs.
+
+- Layered **MVC architecture** with clear separation of concerns
+- JDBC-powered MySQL integration with transactional integrity
+- RESTful API design following industry-standard conventions
+
+---
+
+## `$ github-stats --user srinivas-105`
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                     ◈  2025  LEARNING  ROADMAP  ◈                          ║
-╠════╦════════════════════════════════╦════════════════════════════╦══════════╣
-║ #  ║  DOMAIN                        ║  PROGRESS                  ║  STATUS  ║
-╠════╬════════════════════════════════╬════════════════════════════╬══════════╣
-║ 01 ║  🧠 Reinforcement Learning     ║  █████████████████░░  82%  ║  🟢 Active║
-║ 02 ║  👁️ Computer Vision (OpenCV)   ║  ███████████████░░░░  74%  ║  🟢 Active║
-║ 03 ║  🌱 Spring Boot Microservices  ║  █████████████░░░░░░  66%  ║  🔵  WIP  ║
-║ 04 ║  ☁️ Cloud & System Design      ║  ██████████░░░░░░░░░  50%  ║  🔵  WIP  ║
-║ 05 ║  🐳 Docker & DevOps            ║  ███████░░░░░░░░░░░░  34%  ║  🟡 Learn ║
-╚════╩════════════════════════════════╩════════════════════════════╩══════════╝
-```
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srinivas-105&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub+Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivas-105&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=555f6e&border_radius=8"/>
+
+<br/><br/>
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivas-105&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=8&langs_count=6&custom_title=Top+Languages"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## `$ cat education.txt`
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│  🎓  B.Tech — Computer Science & Engineering (AI)           2023–2027  │
+│      G. Pullaiah College of Engineering & Technology                   │
+│      CGPA: 8.39 / 10                                                   │
+├────────────────────────────────────────────────────────────────────────┤
+│  📘  Class XII — Sri Chaitanya Junior College               Score: 97% │
+├────────────────────────────────────────────────────────────────────────┤
+│  📗  Class X  — Chinmaya Mission Vidyalaya High School                 │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `$ cat certifications.txt`
+
+| Certificate | Issuer | Domain |
+|---|---|---|
+| Spring Boot for Beginners | Amigoscode | Backend Engineering |
+| Java Programming | CodeTantra | Software Development |
+| Data Analytics | GeeksforGeeks Skill-Up | Data Science |
+| Certified Service Administration | ServiceNow (Global) | IT Service Management |
+
+---
+
+## `$ ping srinivas-rao`
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="mailto:m.srinivasarao051@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533" width="160"/>
-<br/><sub><b>m.srinivasarao051@gmail.com</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://linkedin.com/in/srinivasa-rao-73732b2bb">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533" width="160"/>
-<br/><sub><b>srinivasa-rao-73732b2bb</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/srinivas-105">
-<img src="https://img.shields.io/badge/GITHUB-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533" width="160"/>
-<br/><sub><b>github.com/srinivas-105</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://wa.me/917997110446">
-<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a0533" width="160"/>
-<br/><sub><b>+91 7997110446</b></sub>
-</a>
-</td>
-</tr>
-</table>
+| Channel | Address |
+|---|---|
+| 📧 Email | [m.srinivasarao051@gmail.com](mailto:m.srinivasarao051@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/srinivasa-rao-73732b2bb](https://linkedin.com/in/srinivasa-rao-73732b2bb) |
+| 🐙 GitHub | [github.com/srinivas-105](https://github.com/srinivas-105) |
+| 📱 WhatsApp | [+91 7997110446](https://wa.me/917997110446) |
+| 📍 Location | Kurnool, Andhra Pradesh, India |
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=srinivas-105&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=1a0533"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/srinivas-105?style=for-the-badge&color=a78bfa&labelColor=1a0533&label=FOLLOWERS"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/srinivas-105?style=for-the-badge&color=e879f9&labelColor=1a0533&label=TOTAL+STARS"/>
+*Open to AI/ML, Generative AI, and Software Engineering internship opportunities.*
 
 </div>
 
@@ -368,6 +233,6 @@ Type   ─ Real-Time Detection · Safety System
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:04020f&height=150&section=footer&text=From%20Kurnool%20%E2%80%94%20Engineering%20Intelligent%20Solutions&fontSize=15&fontColor=a78bfa&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0f&height=100&section=footer" width="100%"/>
 
 </div>
